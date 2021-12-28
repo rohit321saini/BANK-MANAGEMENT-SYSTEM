@@ -379,7 +379,7 @@ void intro()
 	cout<<"\n\n\tMANAGEMENT";
 	cout<<"\n\n\t  SYSTEM";
 	cout<<"\n\n\n\nMADE BY : Rohit Saini";
-	cout<<"\n\nSCHOOL : NIT UTTARAKHAND";
+	cout<<"\n\nCOLLEGE : NIT UTTARAKHAND";
 	cin.get();
 }
 
